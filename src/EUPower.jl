@@ -1,5 +1,8 @@
 module EUPower
 
-# Write your package code here.
+function SayHi()
+    print("Hello")
+    return 1
+end
 
 end

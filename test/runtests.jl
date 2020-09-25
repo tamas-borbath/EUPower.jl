@@ -2,5 +2,6 @@ using EUPower
 using Test
 
 @testset "EUPower.jl" begin
-    # Write your tests here.
+    @test 1==1
+# Write your tests here.
 end
